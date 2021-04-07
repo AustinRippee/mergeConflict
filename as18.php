@@ -8,11 +8,11 @@ function blah(){
     echo "hello";
 }
 
-<<<<<<< HEAD
 function mergeRepo1(){
-=======
+    echo "hello";
+}
+
 function mergeRepo2(){
->>>>>>> f70b43447e40815d8de57fdafb77ebd22453e8b3
     echo "hello world";
 }
 
