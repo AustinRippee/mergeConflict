@@ -7,3 +7,7 @@ main();
 function blah(){
     echo "hello";
 }
+
+function update2(){
+    echo "Update 2";
+}
