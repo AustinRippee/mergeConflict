@@ -11,3 +11,8 @@ function blah(){
 function blahblah(){
     echo "blah";
 }
+<?php
+
+function blahhhhhhhhh(){
+    echo "idk what this is an update";
+}
