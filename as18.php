@@ -8,6 +8,10 @@ function blah(){
     echo "hello";
 }
 
+function mergeRepo2(){
+    echo "hello world";
+}
+
 function main () {
 	
 	$apiCall = 'https://api.covid19api.com/summary';
