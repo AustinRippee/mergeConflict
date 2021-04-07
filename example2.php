@@ -11,3 +11,6 @@ function blah(){
 function update2(){
     echo "Update 2";
 }
+function update1(){
+    echo "Update 1";
+}
